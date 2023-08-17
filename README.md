@@ -3,11 +3,8 @@
 ##Folder Description
 
 Results: Has Notebooks with corresponding experimental results
-
 DataLoader: Has Python script used to load data, and custom split data.
-
 ContrastiveLearning_Model: Has Python script to prepare the pre-trained model, corresponding Python script(with supporting ContrastiveModel), and saved models. Raw results.
-
 Large Models: Has raw results for the Moderate architected models.
 
 Small Models: Has raw results for the Small architected models.
